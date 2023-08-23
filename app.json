@@ -1,0 +1,20 @@
+{
+  "name": "PRABATH-MD (1.0.0)",
+  "description": "PRABATH-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
+  "logo": "https://telegra.ph/file/ad25b2227fa2a1a01b707.jpg",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "multi device", "prabath-md"],
+  "success_url": "/",
+  "stack": "container",
+
+  "env": {
+  "BOT_NUMBER": {
+  "description": "Put the number you want to create the bot here and scan the qr with the same number. || ඔබට bot නිර්මාණය කිරීමට අවශ්‍ය අංකය මෙහි දමා එම අංකයෙන් qr එක ස්කෑන් කරන්න."
+  }    
+},
+"formation": {
+  "worker": {
+    "quantity": 1,
+    "size": "basic"
+  }
+}
+}
