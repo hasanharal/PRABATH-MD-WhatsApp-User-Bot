@@ -4,14 +4,20 @@
   "logo": "https://telegra.ph/file/ad25b2227fa2a1a01b707.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "multi device", "prabath-md"],
   "success_url": "/",
-  "stack": "container",
+  "stack": "heroku-22",
 
   "env": {
   "BOT_NUMBER": {
   "description": "Put the number you want to create the bot here and scan the qr with the same number. || ඔබට bot නිර්මාණය කිරීමට අවශ්‍ය අංකය මෙහි දමා එම අංකයෙන් qr එක ස්කෑන් කරන්න."
   }    
 },
-"formation": {
+
+     "buildpacks": [
+        {
+            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+        }
+
+  "formation": {
   "worker": {
     "quantity": 1,
     "size": "basic"
