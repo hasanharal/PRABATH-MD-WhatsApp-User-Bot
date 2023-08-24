@@ -16,7 +16,7 @@
         {
             "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
         }
-
+     ]
   "formation": {
   "worker": {
     "quantity": 1,
