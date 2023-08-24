@@ -4,7 +4,6 @@
   "logo": "https://telegra.ph/file/ad25b2227fa2a1a01b707.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "multi device", "prabath-md"],
   "success_url": "/",
-  "stack": "heroku-22",
 
   "env": {
   "BOT_NUMBER": {
@@ -17,4 +16,5 @@
             "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
         }
      ],
+  "stack": "heroku-22"
 }
