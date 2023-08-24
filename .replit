@@ -1,2 +1,0 @@
-run = "yarn && npm i pm2 --location=global && pm2 start index.js --deep-monitoring --attach --name prabath-md"
-start = "pm2 start index.js --deep-monitoring --attach --name prabath-md"
