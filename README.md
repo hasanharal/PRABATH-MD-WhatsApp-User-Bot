@@ -50,7 +50,7 @@
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/prabathLK/PRABATH-MD&branch=main&env[BOT_NUMBER]&env&name=prabath-md-1.0.0)
 <br>
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/9ZnW5P?referralCode=jGVWTy)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/2B1VYo)
 <br>
 
 [![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/PrabathLK/PRABATH-MD&template=https://github.com/PrabathLK/PRABATH-MD.git)
