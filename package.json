@@ -5,7 +5,7 @@
 "restart": "pm2 restart prabath-md"
 },
 "dependencies": {
-"@whiskeysockets/baileys": "git+https://github.com/prabathLK/Baileys",
+"@whiskeysockets/baileys": "git+https://github.com/SamPandey001/baileys",
 "@adiwajshing/keyed-db": "^0.2.4",
 "pino": "^7.0.5",
 "google-tts-api": "^2.0.2",
