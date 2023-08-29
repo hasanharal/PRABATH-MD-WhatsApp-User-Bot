@@ -6,9 +6,22 @@
   "success_url": "/",
 
   "env": {
-  "BOT_NUMBER": {
-  "description": "Put the number you want to create the bot here and scan the qr with the same number. || ඔබට bot නිර්මාණය කිරීමට අවශ්‍ය අංකය මෙහි දමා එම අංකයෙන් qr එක ස්කෑන් කරන්න."
-  }    
+    "BOT_NUMBER": {
+      "description": "Put the number here.",
+      "required": true
+    },
+    "SESSION_ID": {
+      "description": "Put your session Id here.",
+      "required": true
+    },
+    "GITHUB_USERNAME": {
+      "description": "Put your github username here.",
+      "required": true
+    },
+    "GITHUB_AUTH_TOKEN": {
+      "description": "Put your github authtoken here.",
+      "required": true
+    }   
 },
 
      "buildpacks": [
