@@ -49,8 +49,6 @@
 **[SCAN QR-CODE-SERVER-1](https://qr-web-prabath-md-update.vercel.app/)**
 
 <br>
-<br>
-
 
 **[SCAN QR-CODE-SERVER-2](https://qr-meganzprabath-md-production.up.railway.app/)**
 
