@@ -46,8 +46,9 @@
 
  **`DEPLOYMENT METHODS`**
 ---
-**[SCAN QR-CODE](https://qr-web-prabath-md-update.vercel.app/)**
+**[SCAN QR-CODE-SERVER-1](https://qr-web-prabath-md-update.vercel.app/)**
 <br>
+**[SCAN QR-CODE-SERVER-2](https://qr-meganzprabath-md-production.up.railway.app/)**
 
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/prabathLK/PRABATH-MD&branch=main&env[BOT_NUMBER]&env[SESSION_ID]&env[GITHUB_USERNAME]&env[GITHUB_AUTH_TOKEN]&name=prabath-md)
 <br>
