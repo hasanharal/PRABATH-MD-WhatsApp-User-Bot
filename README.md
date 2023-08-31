@@ -54,7 +54,7 @@
 
 
 
-**[SCAN QR-CODE-SERVER-3](https://prabath-md-qr-rgbm.onrender.com/)**
+**[SCAN QR-CODE-SERVER-3](https://prabath-md-qr-rbm.onrender.com/)**
 
 <br>
 
