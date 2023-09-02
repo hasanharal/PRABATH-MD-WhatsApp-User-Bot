@@ -50,11 +50,12 @@
 
 
 
-**[SCAN QR-CODE-SERVER-2](https://qr-meganzprabath-md-production.up.railway.app/)**
+**[SCAN QR CODE-SERVER-2](https://replit.com/@Amilaprabath/PRABATH-MDQR?output%20only=1&lite=1#index.js)**
 
+  
 
+**[SCAN QR-CODE-SERVER-3](https://qr-meganzprabath-md-production.up.railway.app/)**
 
-**[SCAN QR-CODE-SERVER-3](https://prabath-md-qr-rbm.onrender.com/)**
 
 <br>
 
