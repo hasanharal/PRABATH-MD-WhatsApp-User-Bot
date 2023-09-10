@@ -23,7 +23,7 @@
 "form-data": "^4.0.0",
 "ffmpeg": "^0.0.4",
 "crypto-js":"latest",
-"youtubedl-core": "git+ssh://git@github.com:khlevon/node-ytdl-core.git#v4.11.4-patch.2",
+"youtubedl-core": "github:SACHIBOT/youtubedl#main",
 "node-fetch": "^2.6.1" ,
 "megajs": "^1.1.0",
 "file-type": "^16.5.3",
